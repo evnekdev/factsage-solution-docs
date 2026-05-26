@@ -1,6 +1,6 @@
 # mkdocs.yml
-site_name : LIQENGINEBIN project
-site_url: https://evnekdev.github.io/liqenginebin-docs/
+site_name : FactSage Solution Databases - theory and parsing
+site_url: https://evnekdev.github.io/factsage-solution-docs/
 
 
 extra_css:
